@@ -6,7 +6,9 @@ class Robot:
         self.weight = weight
 
     def introduce_self(self):
-        print(f"My name is " + self.name + "\nMy color is " + self.color + "\nMy weight is " + self.weight) #self is like this in Java
+        print(f"My name is " + self.name 
+        + "\nMy color is " + self.color 
+        + "\nMy weight is " + self.weight) #self is like this in Java
 
 #objects and attributes when used without contstructor
 # r1 = Robot()
