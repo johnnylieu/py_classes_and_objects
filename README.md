@@ -6,4 +6,4 @@ Click this link to access the [Deployed Application](https://johnnylieu.github.i
 
 ## Screenshots
 
-![alt text](https://github.com/johnnylieu/py_classes_and_objects/classes_and_objects_in_python.png "Application Img1")
+![script & console](https://raw.githubusercontent.com/johnnylieu/py_classes_and_objects/main/basic%20classes%2C%20objects%2C%20and%20constructors.bmp "Application Img1")
