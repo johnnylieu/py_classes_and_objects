@@ -1,4 +1,3 @@
 class Robot:
-    def introduce_self():
+    def introduce_self(self):
         print("My name is " + self.name) #self is like this in Java
-        
