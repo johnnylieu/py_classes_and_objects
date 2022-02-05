@@ -1,6 +1,6 @@
 # Practicing basic classes, objects, & contructors
 
-This will print each Robot's given name, weight, and color by passing in arguments with constructors. Said arguments are equal to given objects and classes.
+This will print each Robot's given name, weight, and color by passing in arguments with constructors. Said arguments are equal to given objects and attributes.
 
 ## Screenshots
 
