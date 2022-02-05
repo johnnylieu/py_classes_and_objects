@@ -6,10 +6,7 @@ class Robot:
         self.weight = weight
 
     def introduce_self(self):
-        # print(f"My name is " + self.name + "\nMy color is " + self.color + "My weight is " + self.weight) #self is like this in Java
-        print("My name is " + self.name)
-        print("My color is " + self.color)
-        print("My weight is " + self.weight)
+        print(f"My name is " + self.name + "\nMy color is " + self.color + "\nMy weight is " + self.weight) #self is like this in Java
 
 #objects and attributes when used without contstructor
 # r1 = Robot()
@@ -23,8 +20,8 @@ class Robot:
 # r2.weight = 60
 
 #objects and attributes when used with contstructor
-r1 = Robot("Johnny", "black", 30)
-r2 = Robot("Brian", "brown", 60)
+r1 = Robot("Johnny", "black", "30")
+r2 = Robot("Brian", "brown", "60")
 
 #runs r1 and r2 object in function introduce_self
 r1.introduce_self()
