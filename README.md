@@ -1,8 +1,6 @@
 # Practicing basic classes, objects, & contructors
 
-This will print each Robot's name, weight, and color.
-
-Click this link to access the [Deployed Application](https://johnnylieu.github.io/localCoffeeShops.github.io/)
+This will print each Robot's given name, weight, and color.
 
 ## Screenshots
 
