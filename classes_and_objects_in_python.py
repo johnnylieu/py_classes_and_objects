@@ -23,6 +23,6 @@ class Robot:
 r1 = Robot("Johnny", "black", 30)
 r2 = Robot("Brian", "brown", 60)
 
-#runes r1 object in function introduce_self
+#runs r1 and r2 object in function introduce_self
 r1.introduce_self()
 r2.introduce_self()
